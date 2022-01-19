@@ -1,0 +1,2 @@
+- Hi, I’m @adrianmonaghan
+- I'm a candidate for BS in Data Science with a minor in Math at Northeastern University.
